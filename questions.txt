@@ -1,0 +1,29 @@
+1.var fruitIntake = prompt('How much  fruits do you eat daily?');
+alert('Eating ' + fruitIntake + ' fruits daily is beneficial for your health!');
+
+2.var mentalHealth = prompt('What activities do you do to maintain your mental health?');
+alert('Engaging in activities like ' + mentalHealth + ' is great for your mental well-being!');
+3.
+var medicalCheckup = prompt('How often do you go for a medical checkup?');
+alert('Going for a medical checkup ' + medicalCheckup + ' is a good practice!');
+4. 
+var dietType = prompt('Do you follow any specific diet? (e.g., vegetarian, vegan, keto)');
+alert('Following a ' + dietType + ' diet can be beneficial for your health!');
+5. 
+var waterIntake = prompt('How many glasses of water do you drink daily?');
+alert('Drinking ' + waterIntake + ' glasses of water a day is good for your health!');
+6. 
+var allergies = prompt('Do you have any food allergies or intolerances? If yes, what are they?');
+alert('It\'s important to be aware of your allergies like ' + allergies + ' for better health management.');
+7. 
+var alcohol = prompt('Do you consume alcohol? If yes, how often?');
+alert('Monitoring alcohol consumption is crucial for maintaining good health.');
+8. 
+var relaxation = prompt('What methods do you use to relax and unwind?');
+alert('Relaxation techniques like ' + relaxation + ' are important for reducing stress.');
+9. 
+var screenTime = prompt('How many hours a day do you spend on screens (TV, computer, phone)?');
+alert('Managing screen time to ' + screenTime + ' hours can benefit your eye and mental health.');
+10. 
+var dentalCare = prompt('How often do you visit the dentist?');
+alert('Regular dental check-ups are important for oral health.');
